@@ -1,6 +1,7 @@
 # 28stoneHomeTaskForChecking
 
 How to run project:<br/>
+Clone or Download repository<br/>
 Open terminal inside the 28StoneHomeworkAPI.sln folder, located under 28StoneHomeTask folder<br/>
 Run command `dotnet run` and navigate to your browser and enter url: https://localhost:7253/swagger/index.html 
 
