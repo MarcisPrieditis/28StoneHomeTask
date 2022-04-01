@@ -1,4 +1,4 @@
-# 28stoneHomeTaskForChecking
+# Restcountries.com api 
 
 How to run project:<br/>
 Clone or Download repository<br/>
